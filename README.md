@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" height="30" alt="mobile dev icon" title="Mobile Development (React Native)" />
 </div>
 
 </div>
